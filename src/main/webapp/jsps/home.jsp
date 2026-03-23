@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Demo github-webhook 🚀</h1>
+    <h1>🚀 Demo scp deployment 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
