@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Demo Poll SCM 🚀</h1>
+    <h1>🚀 Demo BuildPeriodically 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
